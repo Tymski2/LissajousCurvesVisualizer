@@ -1,0 +1,5 @@
+{
+  "name": "Lissajous Weaver",
+  "description": "A real-time, interactive Lissajous curve visualizer that weaves colorful patterns without clearing the canvas. Experiment with frequencies and speed to create complex neon tapestries.",
+  "requestFramePermissions": []
+}
